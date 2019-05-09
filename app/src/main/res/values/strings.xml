@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="news_wallet_base_tx222"><Data><![CDATA[<font color="#999999"><b>投资期限</b></font>&#12288;<font color="#999999"><b>%1$s</b></font>]]></Data></string>
+    <string name="news_wallet_base_tx22"><Data><![CDATA[<font color="#999999"><b>库存</b></font><font color="#999999"><b>%1$s</b></font><font color="#999999"><b>件</b></font>]]></Data></string>
+</resources>
